@@ -31,5 +31,5 @@
   <img src="https://github.com/han-s0l0/PedraPapelTesoura/assets/111011292/041edb06-d544-429c-8d95-dba871f3d903"><br>
 </ol>
 
-<h3>Contributing</h3>
+<h3>Contribuindo</h3>
 <p>Se tiver interesse em contribuir com o projeto se sinta livre para bifurcar (fork) o repositório e enviar uma solicitação de pull.</p>
